@@ -19,7 +19,7 @@ if(selected == "Home") :
 if(selected == "Rangkaian Penjumlahan dengan Op-Amp") :
     st.title("Rangkaian Penjumlahan dengan Op-Amp")
     st.image("a.jpg", width = 500)
-    st.title("Rumus Rangkain Penjumlahan dengan Op-Amp")
+    st.title("Rumus Rangkaian Penjumlahan dengan Op-Amp")
     st.image("b.jpg", width = 500)
     st.subheader("Perhitungan Vo pada Rangkaian Penjumlahan Op-Amp dan Simulasi Sinyal Output")
 
